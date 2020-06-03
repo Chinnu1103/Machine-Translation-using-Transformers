@@ -7,6 +7,8 @@ This project is an implementation of the paper - “Attention is all you need”
 2. Open the ipynb file as a jupyter notebook
 3. Run the necessary cells
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+
 ### Team Member Details:
 
 | Roll No. | Name | Registration No. |
