@@ -4,7 +4,7 @@ This project is an implementation of the paper - “Attention is all you need”
 
 ### Steps to run the project: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Chinnu1103/Machine-Translation-using-Transformers/blob/master/Dmpa_6th_sem.ipynb)
 1. Download or clone the project to your pc
-2. Open the ipynb file as a jupyter notebook
+2. Open the ipynb file as a jupyter notebook or click the above colab link
 3. Run the necessary cells
 
 ### Team Member Details:
